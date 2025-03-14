@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "nodenext",
+    "target": "es2022",
+    "module": "nodenext",  // Cambiado a "nodenext"
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "dist"
+  ]
+}
