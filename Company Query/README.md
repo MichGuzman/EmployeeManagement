@@ -27,7 +27,7 @@ For more information, see [MIT License](https://opensource.org/licenses/MIT).
 
 
 ## 🎥 Walkthrough Video
-[Watch the video]([https://drive.google.com/file/d/1wl5iKBt6ksVousJ1KosG9L-ufv0JKS9f/view?usp=drive_link](https://drive.google.com/file/d/1UDf5Et4XPArQUTyz4tkNm30vQ39snlQK/view?usp=drive_link)
+[Watch the video](https://drive.google.com/file/d/1wl5iKBt6ksVousJ1KosG9L-ufv0JKS9f/view?usp=drive_link)
 
 
 ### Installation Instructions:
